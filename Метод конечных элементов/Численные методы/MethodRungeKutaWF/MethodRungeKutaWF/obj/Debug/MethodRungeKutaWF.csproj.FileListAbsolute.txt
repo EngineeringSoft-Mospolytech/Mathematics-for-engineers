@@ -1,0 +1,11 @@
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\bin\Debug\MethodRungeKutaWF.exe.config
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\bin\Debug\MethodRungeKutaWF.exe
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\bin\Debug\MethodRungeKutaWF.pdb
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.csproj.AssemblyReference.cache
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.Form1.resources
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.Properties.Resources.resources
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.csproj.GenerateResource.cache
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.csproj.CoreCompileInputs.cache
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.exe
+C:\Users\kera1\source\repos\MethodRungeKutaWF\MethodRungeKutaWF\obj\Debug\MethodRungeKutaWF.pdb

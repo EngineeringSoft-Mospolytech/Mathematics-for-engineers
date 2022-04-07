@@ -1,0 +1,21 @@
+C:\Users\Aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ПД Панаскин Алексей.exe.config
+C:\Users\aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ПД Панаскин Алексей.exe
+C:\Users\aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ПД Панаскин Алексей.pdb
+C:\Users\aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ПД Панаскин Алексей.exe
+C:\Users\aleksey\Desktop\Пд\forms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ПД Панаскин Алексей.pdb
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ПД Панаскин Алексей.exe.config
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ПД Панаскин Алексей.exe
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ПД Панаскин Алексей.pdb
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ПД Панаскин Алексей.exe
+C:\Users\kera1\Downloads\Telegram Desktop\Сергичева,_Панаскин,_Ефимов_20220405T181415Z_001\Сергичева, Панаскин, Ефимов\Панаскин Алексей\Panaskin\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ПД Панаскин Алексей.pdb
