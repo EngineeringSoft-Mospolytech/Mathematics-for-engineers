@@ -26,7 +26,7 @@
 2. Артём Сёмин
 
 #### Метод конечных элементов
-1. [Сергичева Валерия Николаевна](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D1%87%D0%B5%D0%B2%D0%B0%20%D0%92.%20%D0%9D) - лидер проекта
+1. [Сергичева Валерия Николаевна](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%92.%20%D0%9D.%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D1%87%D0%B5%D0%B2%D0%B0) - лидер проекта
 2. Сергеев Олег
 3. Панаскин Алексей
 4. Пересторонин Аким
