@@ -17,7 +17,6 @@
 
 ## Контакты
 - [Вконтакте](https://vk.com/id380412592)
-
 - [Почта: aleksey.panaskin@gmail.com](aleksey.panaskin@gmail.com)
 - [Гит-аккаунт](https://github.com/AlekseyPanaskin)
 
