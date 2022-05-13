@@ -17,5 +17,5 @@
 
 ## Контакты
 - [Вконтакте](https://vk.com/id380412592)
-- [lera15062001lera@gmail.com](aleksey.panaskin@gmail.com)
+- [Почта: aleksey.panaskin@gmail.com](aleksey.panaskin@gmail.com)
 - [Гит-аккаунт](https://github.com/AlekseyPanaskin)
