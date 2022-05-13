@@ -16,6 +16,6 @@
 - [Минимизация функции]()
 
 ## Контакты
-- [Вконтакте](hhttps://vk.com/id613210281)
+- [Вконтакте](https://vk.com/id613210281)
 - [Почта: svroev@gmail.com](svroev@gmail.com)
 
