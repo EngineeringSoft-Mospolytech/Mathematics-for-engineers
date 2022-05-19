@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\надо\Optimization\Optimization\obj\Debug\Optimization.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\надо\Optimization\Optimization\obj\Debug\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\надо\Optimization\Optimization\bin\Debug\Optimization.exe.config
+C:\Users\User\Desktop\надо\Optimization\Optimization\bin\Debug\Optimization.exe
+C:\Users\User\Desktop\надо\Optimization\Optimization\bin\Debug\Optimization.pdb
+C:\Users\User\Desktop\надо\Optimization\Optimization\obj\Debug\Optimization.exe
+C:\Users\User\Desktop\надо\Optimization\Optimization\obj\Debug\Optimization.pdb
