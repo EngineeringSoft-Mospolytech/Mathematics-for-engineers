@@ -1,0 +1,8 @@
+D:\Desk\Isoline\Isoline\obj\Debug\Isoline.csproj.AssemblyReference.cache
+D:\Desk\Isoline\Isoline\obj\Debug\Isoline.csproj.SuggestedBindingRedirects.cache
+D:\Desk\Isoline\Isoline\obj\Debug\Isoline.csproj.CoreCompileInputs.cache
+D:\Desk\Isoline\Isoline\bin\Debug\Isoline.exe.config
+D:\Desk\Isoline\Isoline\bin\Debug\Isoline.exe
+D:\Desk\Isoline\Isoline\bin\Debug\Isoline.pdb
+D:\Desk\Isoline\Isoline\obj\Debug\Isoline.exe
+D:\Desk\Isoline\Isoline\obj\Debug\Isoline.pdb

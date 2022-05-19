@@ -1,0 +1,15 @@
+D:\Desk\integral\integral\bin\Debug\net6.0\integral.exe
+D:\Desk\integral\integral\bin\Debug\net6.0\integral.deps.json
+D:\Desk\integral\integral\bin\Debug\net6.0\integral.runtimeconfig.json
+D:\Desk\integral\integral\bin\Debug\net6.0\integral.dll
+D:\Desk\integral\integral\bin\Debug\net6.0\ref\integral.dll
+D:\Desk\integral\integral\bin\Debug\net6.0\integral.pdb
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.csproj.AssemblyReference.cache
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.AssemblyInfoInputs.cache
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.AssemblyInfo.cs
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.csproj.CoreCompileInputs.cache
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.dll
+D:\Desk\integral\integral\obj\Debug\net6.0\ref\integral.dll
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.pdb
+D:\Desk\integral\integral\obj\Debug\net6.0\integral.genruntimeconfig.cache
