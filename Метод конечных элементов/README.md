@@ -1,19 +1,20 @@
 # Метод конечных элементов
-**Описание и цели проекта на пару абзацев.
-В каждой статье нужно сделать пояснительный readme + методичка для отчётности по своим задачам. У участников должна быть своя страница с описанием что делали в проекте, распределение часов и возможно ссылки на источники.** 
+
 
 ## Содержание
 **Пункты для примера, участники сами прописывают, то над чем работали**
-- ### [Численные методы](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)
+- [Численные методы](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)
+  + [Формулы Адамса, Милна и Хемминга](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/Adams%2C%20Milne.%20Hemming)
   + [Решение СЛАУ методом Гаусса-Зейделя](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/Gauss-Seidel)
   + [Метод Рунге — Кутты](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/MethodRungeKutaWF)
-  + [Формулы Адамса, Милна и Хемминга](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/Adams%2C%20Milne.%20Hemming)
-  + [Метод Чебышева](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/blob/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/Chebyshev/README.md)
-- Минимизация функции
-- .......
+  + [Метод Чебышева](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/Chebyshev)
+  + [Изолинии](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/Isoline)
+  + [Решение интегральных уравнений методами: сумма Римана, правило трапеций, правило Симпсона](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/integral)
+  + [Минимизация функции]() - нет кода
 
 ## Участники
 1. [Сергичева Валерия Николаевна](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%92.%20%D0%9D.%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D1%87%D0%B5%D0%B2%D0%B0)
 2. [Сергеев Олег](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9E.%20%D0%9F.%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2)
 3. [Панаскин Алексей](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%90.%20%D0%94.%20%D0%9F%D0%B0%D0%BD%D0%B0%D1%81%D0%BA%D0%B8%D0%BD)
-
+4. [Пересторонин Аким](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%90.%20%D0%9C.%20%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD)
+5. [Свинцицкий Роман](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A0.%20%D0%95.%20%D0%A1%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)
