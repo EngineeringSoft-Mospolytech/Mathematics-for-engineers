@@ -13,3 +13,18 @@ D:\Desk\integral\integral\obj\Debug\net6.0\integral.dll
 D:\Desk\integral\integral\obj\Debug\net6.0\ref\integral.dll
 D:\Desk\integral\integral\obj\Debug\net6.0\integral.pdb
 D:\Desk\integral\integral\obj\Debug\net6.0\integral.genruntimeconfig.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\bin\Debug\net6.0\integral.exe
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\bin\Debug\net6.0\integral.deps.json
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\bin\Debug\net6.0\integral.runtimeconfig.json
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\bin\Debug\net6.0\integral.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\bin\Debug\net6.0\integral.pdb
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.csproj.AssemblyReference.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.AssemblyInfoInputs.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.AssemblyInfo.cs
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.csproj.CoreCompileInputs.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\refint\integral.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.pdb
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\integral.genruntimeconfig.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\integral\integral\obj\Debug\net6.0\ref\integral.dll

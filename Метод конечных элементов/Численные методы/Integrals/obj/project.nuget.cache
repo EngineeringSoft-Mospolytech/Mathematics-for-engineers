@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hgYLg8fyYf18tJ+mrICwAiTH3O4afResPEM93+39s+f6248Br4k/dhm/EC+ku7HOKHoj5tgiUz7jFsuCID95A==",
+  "success": true,
+  "projectFilePath": "Z:\\Spring-2022\\Метод конечных элементов\\Численные методы\\Integrals\\Integrals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleksey\\.nuget\\packages\\maikebing.system.windows.forms.datavisualization\\5.0.1\\maikebing.system.windows.forms.datavisualization.5.0.1.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\aleksey\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

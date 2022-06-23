@@ -1,0 +1,38 @@
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\Integrals.exe
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\Integrals.deps.json
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\Integrals.runtimeconfig.json
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\Integrals.dll
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\ref\Integrals.dll
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\Integrals.pdb
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.AssemblyReference.cache
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.AssemblyInfoInputs.cache
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.AssemblyInfo.cs
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.CoreCompileInputs.cache
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.dll
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\ref\Integrals.dll
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.pdb
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.genruntimeconfig.cache
+C:\Users\olegs\source\repos\Integrals\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.GenerateResource.cache
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.CopyComplete
+C:\Users\olegs\source\repos\Integrals\obj\Debug\net6.0-windows\Integrals.MainForm.resources
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\bin\Debug\net6.0-windows\Integrals.exe
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\bin\Debug\net6.0-windows\Integrals.deps.json
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\bin\Debug\net6.0-windows\Integrals.runtimeconfig.json
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\bin\Debug\net6.0-windows\Integrals.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\bin\Debug\net6.0-windows\Integrals.pdb
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.AssemblyReference.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.MainForm.resources
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.GenerateResource.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.AssemblyInfoInputs.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.AssemblyInfo.cs
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.CoreCompileInputs.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.csproj.CopyComplete
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\refint\Integrals.dll
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.pdb
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\Integrals.genruntimeconfig.cache
+Z:\Spring-2022\Метод конечных элементов\Численные методы\Integrals\obj\Debug\net6.0-windows\ref\Integrals.dll
