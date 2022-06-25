@@ -1,0 +1,1 @@
+Eigen::Matrix K = B.transpose() * D * B * C.determinant() / 2.0f;

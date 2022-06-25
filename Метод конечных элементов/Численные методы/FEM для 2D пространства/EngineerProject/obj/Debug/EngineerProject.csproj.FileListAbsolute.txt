@@ -1,0 +1,12 @@
+C:\Users\TrushinVlad\source\repos\EngineerProject\bin\Debug\EngineerProject.exe.config
+C:\Users\TrushinVlad\source\repos\EngineerProject\bin\Debug\EngineerProject.exe
+C:\Users\TrushinVlad\source\repos\EngineerProject\bin\Debug\EngineerProject.pdb
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.csproj.AssemblyReference.cache
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.Form1.resources
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.Properties.Resources.resources
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.csproj.GenerateResource.cache
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.csproj.CoreCompileInputs.cache
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.exe
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.pdb
+C:\Users\TrushinVlad\source\repos\EngineerProject\bin\Debug\EarcutNet.dll
+C:\Users\TrushinVlad\source\repos\EngineerProject\obj\Debug\EngineerProject.csproj.CopyComplete
