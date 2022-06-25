@@ -1,0 +1,103 @@
+<div class="container-fluid mt-5">
+	<div class="row  ">
+			
+
+			<div class="col-3 ">
+
+				<!-- Главная надпись -->
+   
+			   <p class="text-center fs-3 text-light"> По инженерного анализа</p>
+   
+			   <!-- Текстовое описание панели -->
+   
+				   <div class="row justify-content-center">
+					   <div class="col">
+						   <p class="text-center fs-5 text-light">Введите параметры модели</p>
+   
+					   </div>
+				   </div>
+   
+					<!-- инпуты -->
+				   <div class="row justify-content-center">
+					   <div class="col-8">
+   
+						   <div class="input-group mb-3">
+							   <span class="input-group-text fw-bold ">X</span>
+							   <input [(ngModel)]="X" type="text" class="form-control" placeholder="Введите координату по х"  aria-describedby="basic-addon1">
+							 </div>
+						   <div class="input-group mb-3">
+							   <span class="input-group-text fw-bold " >Y</span>
+							   <input  [(ngModel)]="Y" type="text" class="form-control" placeholder="Введите координату по у"  aria-describedby="basic-addon1">
+							 </div>
+						   <div class="input-group mb-3">
+							   <span class="input-group-text fw-bold " >Z</span>
+							   <input  [(ngModel)]="Z" type="text" class="form-control" placeholder="Введите координату по z"  aria-describedby="basic-addon1">
+							 </div>
+						   <div class="input-group mb-3">
+							   <span class="input-group-text fw-bold ">N</span>
+							   <input  [(ngModel)]="N" type="text" class="form-control" placeholder="Количество боковых граней"  aria-describedby="basic-addon1">
+							 </div>
+						   <div class="input-group mb-3">
+							   <span class="input-group-text fw-bold ">L</span>
+							   <input  [(ngModel)]="L" type="text" class="form-control" placeholder="Ширина"  aria-describedby="basic-addon1">
+							 </div>
+						   <div class="input-group mb-3">
+							   <span class="input-group-text fw-bold ">H</span>
+							   <input  [(ngModel)]="H" type="text" class="form-control" placeholder="Высота"  aria-describedby="basic-addon1">
+							 </div>
+   
+					   </div>
+				   </div>
+   
+				   <!-- Кнопка создания модели -->
+				   <div class="row justify-content-center">
+					   <div class="col-4">
+						   <button (click)="addModels()" class="btn btn-success btn-lg ">Создать</button>
+	   
+					   </div>
+	   
+				   </div>
+   
+		   </div>
+		   <div class="col-8">
+			   <canvas #canvas id="canvas" style="height:720px; width: 1280px;"></canvas>
+			   <p class="text-center fs-3 text-light"> Список моделей на сцене</p>
+			   <table class="table table-dark table-striped table-hover mt-3 ms-3 table-sm table-borderless">
+				<thead>
+				  <tr>
+					<th scope="col">№</th>
+					<th scope="col">Координата Х</th>
+					<th scope="col">Координата У</th>
+					<th scope="col">Координата Z</th>
+					<th scope="col">Боковых граней</th>
+					<th scope="col">Ширина</th>
+					<th scope="col">Высота</th>
+					<th scope="col" class=" ps-4">Удалить</th>
+				</tr>
+				</thead>
+				<tbody>
+				  <tr *ngFor="let model of modeles">
+					<th scope="row">{{model.id}}</th>
+					<td>{{model.mX}}</td>
+					<td>{{model.mY}}</td>
+					<td>{{model.mZ}}</td>
+					<td>{{model.mN}}</td>
+					<td>{{model.mL}}</td>
+					<td>{{model.mH}}</td>
+					<td class=""><button class="btn btn-sm btn-danger ms-3"  (click) = "onDeleteModel(model.id)">Удалить</button></td>
+				  </tr>
+				</tbody>
+			  </table>
+   
+		   </div>
+
+
+
+	</div>
+	<div class="row align-items-center">
+		<div class="col-4">
+			
+
+		</div>
+	</div>
+</div>
