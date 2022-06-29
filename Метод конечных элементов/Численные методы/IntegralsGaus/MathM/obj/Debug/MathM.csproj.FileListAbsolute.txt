@@ -1,7 +1,0 @@
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\obj\Debug\MathM.csproj.AssemblyReference.cache
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\obj\Debug\MathM.csproj.CoreCompileInputs.cache
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\bin\Debug\MathM.exe.config
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\bin\Debug\MathM.exe
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\bin\Debug\MathM.pdb
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\obj\Debug\MathM.exe
-E:\C#_VISUAL_STUDIO\IntegralsGaus\MathM\obj\Debug\MathM.pdb
