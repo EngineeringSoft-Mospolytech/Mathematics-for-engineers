@@ -35,4 +35,4 @@ ChartGraphic – Поле вывода графика функции (основ
 Структура директивы выглядит следующем образом: sin, cos, l1, l2, l3, m1, m2, m3, n1, n2, n3, clear, drawxyz.  
 
 Результат работы программы  
-![](https://github.com/EngineeringSoft-Mospolytech/Spring-2022/blob/main/Метод%20конечных%20элементов/Численные%20методы/Isoline/Изолинии.png)
+![](https://github.com/EngineeringSoft-Mospolytech/Mathematics-for-engineers/blob/main/Метод%20конечных%20элементов/Численные%20методы/Isoline/Изолинии.png)
