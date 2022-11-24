@@ -1,0 +1,10 @@
+﻿  LR033View.cpp
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(158,57): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(176,59): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(286,23): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(286,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(286,15): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(289,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(289,20): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\mripa\OneDrive\Рабочий стол\LR033\LR033\LR033View.cpp(289,15): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  LR033.vcxproj -> C:\Users\mripa\OneDrive\Рабочий стол\LR033\Debug\LR033.exe
