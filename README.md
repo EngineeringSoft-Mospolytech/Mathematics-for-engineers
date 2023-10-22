@@ -7,7 +7,6 @@
 ## Участники проекта
 1. [Сергеев Олег 201-323](https://github.com/EngineeringSoft-Mospolytech/Mathematics-for-engineers/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9E.%20%D0%9F.%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2)
 2. [Панаскин Алексей 201-323](https://github.com/EngineeringSoft-Mospolytech/Mathematics-for-engineers/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%90.%20%D0%94.%20%D0%9F%D0%B0%D0%BD%D0%B0%D1%81%D0%BA%D0%B8%D0%BD)
-3. [Илиев Владимир 201-161](https://github.com/EngineeringSoft-Mospolytech/Mathematics-for-engineers/tree/main/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8/%D0%92.%20%D0%98%D0%BB%D0%B8%D0%B5%D0%B2)
 
 ## Наши разработки
 ### [Метод конечных элементов](https://github.com/EngineeringSoft-Mospolytech/Mathematics-for-engineers/tree/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
