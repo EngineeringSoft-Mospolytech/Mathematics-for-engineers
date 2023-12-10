@@ -1,0 +1,8 @@
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\obj\Debug\SimplexElements.csproj.AssemblyReference.cache
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\obj\Debug\SimplexElements.csproj.SuggestedBindingRedirects.cache
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\obj\Debug\SimplexElements.csproj.CoreCompileInputs.cache
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\bin\Debug\SimplexElements.exe.config
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\bin\Debug\SimplexElements.exe
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\bin\Debug\SimplexElements.pdb
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\obj\Debug\SimplexElements.exe
+E:\C#_VISUAL_STUDIO\SimplexElements\SimplexElements\obj\Debug\SimplexElements.pdb
